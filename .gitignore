@@ -1,0 +1,17 @@
+.DS_Store
+.idea
+*.iml
+
+# Local .terraform directories
+**/.terraform/*
+.terraform
+.terraform*
+# .tfstate files
+*.tfstate
+*.tfstate.*
+.idea/*
+
+sensitive.tfvars
+
+# Application dependencies
+node_modules
